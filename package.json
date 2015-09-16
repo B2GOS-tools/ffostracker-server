@@ -1,0 +1,9 @@
+{
+  "name": "bugzilla-firefoxos",
+  "version": "0.0.1",
+  "author": "Daniel Coloma",
+  "dependencies": {
+    "xmlhttprequest": "1.7.0",
+    "firebase":   "2.2.9"
+  }
+}
